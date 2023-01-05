@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Filter And Search</title>
+    <!-- Google Font -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="cars css.css" />
+  </head>
+  <body>
+    <div>
+      <h1>Choose your car</h1>
+      <br>
+    </div>
+    <div class="wrapper">
+      <div id="search-container">
+        <input
+          type="search"
+          id="search-input"
+          placeholder="Search car name here.."
+        />
+        <button id="search">Search</button>
+      </div>
+      <div id="buttons">
+        <button class="button-value" onclick="filterProduct('all')">All</button>
+        <button class="button-value" onclick="filterProduct('Maybach')">
+          Maybach
+        </button>
+        <button class="button-value" onclick="filterProduct('Mercedes')">
+          Mercedes-Benz
+        </button>
+        <button class="button-value" onclick="filterProduct('Porche')">
+          Porche
+        </button>
+        <button class="button-value" onclick="filterProduct('BMW')">
+          BMW
+        </button>
+        <button class="button-value" onclick="filterProduct('Audi')">
+          Audi
+        </button>
+        <button class="button-value" onclick="filterProduct('Volkswagen')">
+          Volkswagen
+        </button>
+      </div>
+      <div id="products"></div>
+    </div>
+    <!-- Script -->
+    <script src="cars js.js"></script>
+  </body>
+</html>
