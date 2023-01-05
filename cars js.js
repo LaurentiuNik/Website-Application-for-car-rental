@@ -19,7 +19,7 @@ let products = {
         category: "BMW",
         price: "600/day",
         image: "https://tse4.mm.bing.net/th?id=OIP.ZRSE0weN0vRKxXcd7tLJUgHaEt&pid=Api&P=0",
-        Details:"- Engine 1995 cmc 190 Cp EURO 6 (Ad Blue)- Smg Automatic Transmission with 8 Ratios- Interior Leather (like new)- Large navigation 4K New Model with Touchreen (internet map download mode / internal memory / DVD on the go)- Attention DVD, TV, AUX, USB, HDD 120Gb Memory, INTERNET- 360 Degree Video Cameras- Front Bumper Camera - Side cameras - Head-Up Display (Hologram Windshield, Playback, All Vehicle Information)- Luna Phase Assist Camera (Change Single Phase) - Keyless Go Auto Starts with the Key in the Pocket - Soft Clouse Trunk - Seat heating- Light / Rain / Tire Pressure / Parking Sensors - Adaptive Led headlights (Last Generation)- Ful Led fog lights - Fiber Optic Stoplights including Signaling",
+        Details:"2020 - Engine 1995 cmc 190 Cp EURO 6 (Ad Blue)- Smg Automatic Transmission with 8 Ratios- Interior Leather (like new)- Large navigation 4K New Model with Touchreen (internet map download mode / internal memory / DVD on the go)- Attention DVD, TV, AUX, USB, HDD 120Gb Memory, INTERNET- 360 Degree Video Cameras- Front Bumper Camera - Side cameras - Head-Up Display (Hologram Windshield, Playback, All Vehicle Information)- Luna Phase Assist Camera (Change Single Phase) - Keyless Go Auto Starts with the Key in the Pocket - Soft Clouse Trunk - Seat heating- Light / Rain / Tire Pressure / Parking Sensors - Adaptive Led headlights (Last Generation)- Ful Led fog lights - Fiber Optic Stoplights including Signaling",
       },
       {
         productName: "Maybach 600",
